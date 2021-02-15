@@ -6,6 +6,7 @@
       "@Core/*": ["./src/Core/*"],
       "@Config": ["./src/Config/app.prod.json"],
       "@Middlewares/*": ["./src/Middlewares/*"],
+      "@Schema/*": ["./src/Schema/*"],
       "@Services/*": ["./src/Services/*"],
       "@Store/*": ["./src/Store/*"],
       "@Styles/*": ["./src/Styles/*"],
